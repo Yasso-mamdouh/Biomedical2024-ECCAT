@@ -1,2 +1,3 @@
 # Biomedical2024-ECCAT
-Graduation project repo
+- ## Graduation project repo
+<img src="team.jpg">
